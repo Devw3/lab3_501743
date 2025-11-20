@@ -1,0 +1,10 @@
+*   417e2ff solve the conflict
+|\  
+| * 35ce883 changes feature2
+* | 8cb7444 changes feature1
+|/  
+* c200f4e changes пара from third commit
+| * 9d4d82d add log.txt on backend_metal
+| * 31b8d6e add не пара
+|/  
+* 10f8711 commit p1
